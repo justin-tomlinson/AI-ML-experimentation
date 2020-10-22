@@ -13,5 +13,6 @@ This repo contains a collection of notebooks and experiments related to computer
 7. [image-descriptors-and-corner-detection.ipynb](image-descriptors-and-corner-detection.ipynb) Image descriptor extraction and corner detection
 8. [image-descriptor-matching.ipynb](image-descriptor-matching.ipynb) - Image descriptor extraction and matching
 9. [image-recognition.ipynb](image-recognition.ipynb) - Word Histograms and Bag-of-Words models for image recognition
-10. 
+10. [image-recognition-lego.ipynb](image-recognition-lego.ipynb) - Extension of Word Histograms and Bag-of-Words method on Lego Block Dataset
+11. [object-detection.ipynb](object-detection.ipynb) - Face and Pedestrian Detection
 
