@@ -15,4 +15,6 @@ This repo contains a collection of notebooks and experiments related to computer
 9. [image-recognition.ipynb](image-recognition.ipynb) - Word Histograms and Bag-of-Words models for image recognition
 10. [image-recognition-lego.ipynb](image-recognition-lego.ipynb) - Extension of Word Histograms and Bag-of-Words method on Lego Block Dataset
 11. [object-detection.ipynb](object-detection.ipynb) - Face and Pedestrian Detection
+12. [deep-learning-for-computer-vision-pytorch.ipynb](deep-learning-for-computer-vision-pytorch.ipynb) - Basic Deep Learning using Pytorch for image classification - CIFAR
+13. [3D-vision.ipynb](3D-vision.ipynb) - Camera pose estimation and 3D reconstruction
 
