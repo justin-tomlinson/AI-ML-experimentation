@@ -4,5 +4,5 @@ This repo contains a collection of notebooks and experiments related to speech a
 
 ## Contents
 
-1. [introduction-to-speech-processing.ipynb](introduction-to-speech-processing.ipynb) - Basic Audio IO, Processing, Plotting and 
+1. [introduction-to-speech-processing.ipynb](introduction-to-speech-processing.ipynb) - Basic Audio IO, Processing and signal plotting
 
