@@ -2,7 +2,6 @@ import asyncio
 import uvicorn
 import os
 import requests
-#import boto3
 import logging
 from pydantic import BaseModel
 from fastai.text import *
@@ -13,17 +12,11 @@ from starlette.responses import HTMLResponse, JSONResponse
 
 logging.basicConfig(filename='run.log',level=logging.INFO)
 
-#model_bucket = 'intellipharm.machine-learning.models'
-#model_key_prefix = 'product_categorisation'
-
 L2_model_url = 'https://storage.googleapis.com/jt-machine-learning-models/product-categorisation/model-2-level-export.pkl'
-L3_model_url = 'https://storage.googleapis.com/jt-machine-learning-models/product-categorisation/model-2-level-export.pkl'
+L3_model_url = 'https://storage.googleapis.com/jt-machine-learning-models/product-categorisation/model-3-level-export.pkl'
 
 L2_model = 'model-2-level-export.pkl'
 L3_model = 'model-3-level-export.pkl'
-
-#l2_item_key = f'{model_key_prefix}/{L2_model}'
-#l3_item_key = f'{model_key_prefix}/{L3_model}'
 
 path = Path(__file__).parent
 
