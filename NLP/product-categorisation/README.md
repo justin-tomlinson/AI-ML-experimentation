@@ -6,7 +6,7 @@ The NLP model was build using FastAI. an example notebook can be found in [/nbs/
 
 The model is then used in a small web service built using the  [FastAPI](https://fastapi.tiangolo.com/ ) library to quickly define the API methods and includes automatic Swagger and Redoc UI's for testing.
 
-The sample web service is hosted [here]() on GCP.
+The sample web service is hosted [here](https://protagee-uw5pq4m64a-ts.a.run.app/docs) on GCP.
 
 ## Build Locally
 
