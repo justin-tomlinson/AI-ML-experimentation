@@ -1,0 +1,5 @@
+/.vscode
+/venv
+/app/models/*.pkl
+run.log
+.ipynb_checkpoints
